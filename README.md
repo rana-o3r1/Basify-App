@@ -1,9 +1,9 @@
 <h1 align="center">🌐 Basify - Web View App 🚀</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/Basify?style=flat-square" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/yourusername/Basify?style=flat-square" alt="GitHub forks">
-  <img src="https://img.shields.io/github/license/yourusername/Basify?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/rana-o3r1/Basify-app?style=flat-square" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/rana-o3r1/Basify-app?style=flat-square" alt="GitHub forks">
+  <img src="https://img.shields.io/github/license/rana-o3r1/Basify-app?style=flat-square" alt="License">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <br>
   Basify app হলো একটি <b>WebView Browser</b>, যা Website কে ব্রাউজারে কনভার্ট করা।
   <br><br>
-  <a href="https://github.com/yourusername/Basify"><img src="https://img.shields.io/badge/GitHub-View%20Project-blue?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/rana-o3r1/Basify-app"><img src="https://img.shields.io/badge/GitHub-View%20Project-blue?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
